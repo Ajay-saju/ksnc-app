@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28.5" height="23.5" viewBox="0 0 28.5 23.5">
+  <defs>
+    <filter id="Ellipse_1" x="0" y="8.5" width="23" height="15" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Contacts_logo" data-name="Contacts logo" transform="translate(-22.5 -328)">
+    <g id="Group_4" data-name="Group 4" transform="translate(37.209 331.469)">
+      <ellipse id="Ellipse_1-2" data-name="Ellipse 1" cx="7" cy="4" rx="7" ry="4" transform="translate(-0.209 6.531)" fill="#fff"/>
+      <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(2.791 -0.469)" fill="#fff" stroke="#48b8b0" stroke-width="1">
+        <ellipse cx="4" cy="4.5" rx="4" ry="4.5" stroke="none"/>
+        <ellipse cx="4" cy="4.5" rx="3.5" ry="4" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_3" data-name="Group 3" transform="translate(23.33 328.266)">
+      <g transform="matrix(1, 0, 0, 1, -0.83, -0.27)" filter="url(#Ellipse_1)">
+        <ellipse id="Ellipse_1-3" data-name="Ellipse 1" cx="10" cy="6" rx="10" ry="6" transform="translate(0.5 9)" fill="#fff"/>
+      </g>
+      <g id="Ellipse_2-2" data-name="Ellipse 2" transform="translate(3.67 -0.266)" fill="#fff" stroke="#48b8b0" stroke-width="1">
+        <ellipse cx="5.5" cy="6" rx="5.5" ry="6" stroke="none"/>
+        <ellipse cx="5.5" cy="6" rx="5" ry="5.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="61" height="53" viewBox="0 0 61 53">
+  <g id="Group_8" data-name="Group 8" transform="translate(-55 -743)">
+    <rect id="Rectangle_117" data-name="Rectangle 117" width="39" height="35" rx="5" transform="translate(66 761)" fill="#48b8b0"/>
+    <g id="Polygon_3" data-name="Polygon 3" transform="translate(55 743)" fill="#48b8b0">
+      <path d="M 57.41991424560547 29.5 L 3.580090522766113 29.5 L 30.50000190734863 2.138778686523438 L 57.41991424560547 29.5 Z" stroke="none"/>
+      <path d="M 30.50000190734863 4.277557373046875 L 7.160179138183594 28 L 53.83982467651367 28 L 30.50000190734863 4.277557373046875 M 30.50000190734863 0 L 61 31 L 3.814697265625e-06 31 L 30.50000190734863 0 Z" stroke="none" fill="#fff"/>
+    </g>
+    <path id="Rectangle_118" data-name="Rectangle 118" d="M5,0h6a5,5,0,0,1,5,5V15a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5A5,5,0,0,1,5,0Z" transform="translate(78 781)" fill="#fff"/>
+  </g>
+</svg>

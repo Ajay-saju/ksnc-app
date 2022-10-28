@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="24" viewBox="0 0 21 24">
+  <g id="Profile_logo" data-name="Profile logo" transform="translate(-0.467 0.179)">
+    <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="10.5" cy="7" rx="10.5" ry="7" transform="translate(0.467 9.821)" fill="#fff"/>
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(4.467 -0.179)" fill="#fff" stroke="#48b8b0" stroke-width="1">
+      <ellipse cx="6.5" cy="7" rx="6.5" ry="7" stroke="none"/>
+      <ellipse cx="6.5" cy="7" rx="6" ry="6.5" fill="none"/>
+    </g>
+  </g>
+</svg>

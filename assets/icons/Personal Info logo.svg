@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="25" viewBox="0 0 22 25">
+  <g id="Personal_Info_logo" data-name="Personal Info logo" transform="translate(3.003 3.425)">
+    <rect id="Rectangle_100" data-name="Rectangle 100" width="22" height="25" rx="4" transform="translate(-3.003 -3.425)" fill="#fff"/>
+    <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(0 0)" fill="#fff" stroke="#48b8b0" stroke-width="1">
+      <ellipse cx="2.669" cy="2.669" rx="2.669" ry="2.669" stroke="none"/>
+      <ellipse cx="2.669" cy="2.669" rx="2.169" ry="2.169" fill="none"/>
+    </g>
+    <line id="Line_53" data-name="Line 53" x2="7.473" transform="translate(8.007 1.601)" fill="none" stroke="#48b8b0" stroke-width="1"/>
+    <line id="Line_54" data-name="Line 54" x2="7.473" transform="translate(8.007 3.737)" fill="none" stroke="#48b8b0" stroke-width="1"/>
+    <line id="Line_55" data-name="Line 55" x2="15.481" transform="translate(0 8.007)" fill="none" stroke="#48b8b0" stroke-width="1"/>
+    <line id="Line_56" data-name="Line 56" x2="15.481" transform="translate(0 12.278)" fill="none" stroke="#48b8b0" stroke-width="1"/>
+    <line id="Line_57" data-name="Line 57" x2="15.481" transform="translate(0 10.143)" fill="none" stroke="#48b8b0" stroke-width="1"/>
+    <line id="Line_58" data-name="Line 58" x2="15.481" transform="translate(0 14.413)" fill="none" stroke="#48b8b0" stroke-width="1"/>
+    <line id="Line_59" data-name="Line 59" x2="15.481" transform="translate(0 16.548)" fill="none" stroke="#48b8b0" stroke-width="1"/>
+  </g>
+</svg>
