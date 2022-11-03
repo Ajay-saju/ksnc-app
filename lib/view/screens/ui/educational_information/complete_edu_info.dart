@@ -192,8 +192,6 @@ class CompleteEduInfoScreen extends StatelessWidget {
       style:
           TextStyle(color: black, fontSize: 16.sp, fontWeight: FontWeight.w400),
       keyboardType: TextInputType.name,
-      // keyboardAppearance: Brightness.light,
-      // validator: ()=>null,
       decoration: InputDecoration(
         hintText: hintText,
         hintStyle: TextStyle(
@@ -253,7 +251,7 @@ class CompleteEduInfoScreen extends StatelessWidget {
                 style: TextStyle(
                     fontFamily: "Nunito",
                     color: Colors.black,
-                    fontSize: 20.sp,
+                    fontSize: 18.sp,
                     fontWeight: FontWeight.bold),
               ),
             ],

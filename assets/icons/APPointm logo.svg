@@ -1,25 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="41.488" height="42.556" viewBox="0 0 41.488 42.556">
-  <defs>
-    <filter id="Rectangle_105" x="0" y="0" width="41.488" height="42.556" filterUnits="userSpaceOnUse">
-      <feOffset dy="3" input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feFlood flood-opacity="0.161"/>
-      <feComposite operator="in" in2="blur"/>
-      <feComposite in="SourceGraphic"/>
-    </filter>
-  </defs>
-  <g id="APPointm_logo" data-name="APPointm logo" transform="translate(-15.271 -523.674)">
-    <g id="Rectangle_106" data-name="Rectangle 106" transform="translate(27.727 533.944)" fill="#fff" stroke="#48b8b0" stroke-width="1">
-      <rect width="23.488" height="24.556" rx="4" stroke="none"/>
-      <rect x="0.5" y="0.5" width="22.488" height="23.556" rx="3.5" fill="none"/>
-    </g>
-    <g transform="matrix(1, 0, 0, 1, 15.27, 523.67)" filter="url(#Rectangle_105)">
-      <g id="Rectangle_105-2" data-name="Rectangle 105" transform="translate(9 6)" fill="#fff" stroke="#48b8b0" stroke-width="1">
-        <rect width="23.488" height="24.556" rx="4" stroke="none"/>
-        <rect x="0.5" y="0.5" width="22.488" height="23.556" rx="3.5" fill="none"/>
-      </g>
-    </g>
-    <line id="Line_84" data-name="Line 84" x2="14.44" transform="translate(32.251 542.006)" fill="none" stroke="#48b8b0" stroke-width="4"/>
-    <line id="Line_85" data-name="Line 85" y2="13.058" transform="translate(39.505 535.477)" fill="none" stroke="#48b8b0" stroke-width="4"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.0-c006 79.dabacbb, 2021/04/14-00:39:44        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/">
+         <xmp:CreatorTool>Adobe Photoshop 22.4 (Windows)</xmp:CreatorTool>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<image id="APPointm_logo" data-name="APPointm logo" y="3" width="45" height="45" xlink:href="data:img/png;base64,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"/>
 </svg>

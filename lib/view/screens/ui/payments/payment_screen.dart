@@ -177,7 +177,7 @@ class PaymentScreen extends StatelessWidget {
                 style: TextStyle(
                     fontFamily: "Nunito",
                     color: Colors.black,
-                    fontSize: 20.sp,
+                    fontSize: 18.sp,
                     fontWeight: FontWeight.bold),
               ),
             ],

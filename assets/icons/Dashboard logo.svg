@@ -1,45 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="41" height="38" viewBox="0 0 41 38">
-  <defs>
-    <filter id="Rectangle_125" x="0" y="7" width="27" height="28" filterUnits="userSpaceOnUse">
-      <feOffset dy="3" input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feFlood flood-opacity="0.161"/>
-      <feComposite operator="in" in2="blur"/>
-      <feComposite in="SourceGraphic"/>
-    </filter>
-    <filter id="Rectangle_131" x="2" y="0" width="32" height="31" filterUnits="userSpaceOnUse">
-      <feOffset dy="3" input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="3" result="blur-2"/>
-      <feFlood flood-opacity="0.161"/>
-      <feComposite operator="in" in2="blur-2"/>
-      <feComposite in="SourceGraphic"/>
-    </filter>
-    <filter id="Rectangle_132" x="6" y="3" width="35" height="35" filterUnits="userSpaceOnUse">
-      <feOffset dy="3" input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="3" result="blur-3"/>
-      <feFlood flood-opacity="0.161"/>
-      <feComposite operator="in" in2="blur-3"/>
-      <feComposite in="SourceGraphic"/>
-    </filter>
-  </defs>
-  <g id="Dashboard_logo" data-name="Dashboard logo" transform="translate(-17 -183)">
-    <g transform="matrix(1, 0, 0, 1, 17, 183)" filter="url(#Rectangle_125)">
-      <g id="Rectangle_125-2" data-name="Rectangle 125" transform="translate(9 13)" fill="#fff" stroke="#48b8b0" stroke-width="1">
-        <rect width="9" height="10" rx="3" stroke="none"/>
-        <rect x="0.5" y="0.5" width="8" height="9" rx="2.5" fill="none"/>
-      </g>
-    </g>
-    <g transform="matrix(1, 0, 0, 1, 17, 183)" filter="url(#Rectangle_131)">
-      <g id="Rectangle_131-2" data-name="Rectangle 131" transform="translate(11 6)" fill="#fff" stroke="#48b8b0" stroke-width="1">
-        <rect width="14" height="13" rx="4" stroke="none"/>
-        <rect x="0.5" y="0.5" width="13" height="12" rx="3.5" fill="none"/>
-      </g>
-    </g>
-    <g transform="matrix(1, 0, 0, 1, 17, 183)" filter="url(#Rectangle_132)">
-      <g id="Rectangle_132-2" data-name="Rectangle 132" transform="translate(15 9)" fill="#fff" stroke="#48b8b0" stroke-width="1">
-        <rect width="17" height="17" rx="5" stroke="none"/>
-        <rect x="0.5" y="0.5" width="16" height="16" rx="4.5" fill="none"/>
-      </g>
-    </g>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.0-c006 79.dabacbb, 2021/04/14-00:39:44        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/">
+         <xmp:CreatorTool>Adobe Photoshop 22.4 (Windows)</xmp:CreatorTool>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<image id="Dashboard_logo" data-name="Dashboard logo" x="-8" width="66" height="60" xlink:href="data:img/png;base64,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"/>
 </svg>

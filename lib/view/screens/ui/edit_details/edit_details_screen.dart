@@ -99,7 +99,7 @@ class EditDetailsScreen extends StatelessWidget {
                 child: Image.asset(
                   'assets/images/R.png',
                   width: 18.w,
-                  height: 20.h,
+                  height: 18.h,
                 ),
               ),
               w20,
@@ -108,7 +108,7 @@ class EditDetailsScreen extends StatelessWidget {
                 style: TextStyle(
                     fontFamily: "Nunito",
                     color: Colors.black,
-                    fontSize: 20.sp,
+                    fontSize: 18.sp,
                     fontWeight: FontWeight.bold),
               ),
             ],
