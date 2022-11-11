@@ -2,13 +2,16 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';
-
+import '../../../../controller/education_info_controller/education_info_controller.dart';
 import '../../../core/colors/colors.dart';
 import '../../../core/size/sizes.dart';
 import 'complete_edu_info.dart';
 
 class EducationalInformation extends StatelessWidget {
-  const EducationalInformation({super.key});
+  EducationalInformation({super.key});
+
+  final educationalInformationController =
+      Get.put(EducationalInformationController());
 
   @override
   Widget build(BuildContext context) {
@@ -46,7 +49,9 @@ class EducationalInformation extends StatelessWidget {
                       const Color.fromARGB(225, 123, 168, 255)),
                 ),
                 onPressed: () {
-                  Get.to(const CompleteEduInfoScreen());
+                  educationalInformationController.getRedirectUrl();
+
+                  // Get.to(const CompleteEduInfoScreen());
                 },
                 child: Text(
                   'Submit',
