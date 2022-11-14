@@ -9,9 +9,8 @@ void main() async {
   Future.delayed(const Duration(seconds: 2), () async {
     WidgetsFlutterBinding.ensureInitialized();
     preferences = await SharedPreferences.getInstance();
-     runApp(const MyApp());
+    runApp(const MyApp());
   });
- 
 }
 
 class MyApp extends StatelessWidget {
