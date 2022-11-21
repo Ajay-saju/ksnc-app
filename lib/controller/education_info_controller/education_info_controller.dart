@@ -12,7 +12,7 @@ class EducationalInformationController extends GetxController {
   Uri? uri;
 
   getRedirectUrl() async {
-    String practitionId = '259';
+    String practitionId = '400';
 
     Map<String, Object> credentials = {
       "url":

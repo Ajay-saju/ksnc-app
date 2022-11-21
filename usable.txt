@@ -1,0 +1,5 @@
+byte[] decodedBytes = new BASE64Decoder().decodeBuffer(str);
+        InputStream targetStream = new ByteArrayInputStream(decodedBytes);
+        PDDocument document = PDDocument.load(targetStream);
+        document.save("C:/test.pdf");
+        FileUtils.writeByteArrayToFile(new File("C:/test.pdf"), decodedBytes);
